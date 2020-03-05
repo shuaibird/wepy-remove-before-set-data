@@ -1,0 +1,32 @@
+{
+  "name": "wepy-remove-before-set-data",
+  "version": "1.0.0",
+  "description": "A workaround to remove the before-setData hook in wepy for fixing issues of using components.",
+  "homepage": "https://github.com/shuaibird/wepy-remove-before-set-data",
+  "bugs": {
+    "url": "https://github.com/shuaibird/wepy-remove-before-set-data/issues",
+    "email": "shuaibird@icloud.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shuaibird/wepy-remove-before-set-data"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wepy",
+    "plugin",
+    "workaround",
+    "hook",
+    "before-setData",
+    "fix"
+  ],
+  "author": {
+    "name": "shuaibird",
+    "email": "shuaibird@icloud.com",
+    "url": "https://github.com/shuaibird"
+  },
+  "license": "ISC"
+}
